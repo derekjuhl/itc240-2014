@@ -1,10 +1,1 @@
-<!doctype html>
-<html>
-  <head>
-    <title><?php echo $page_title; ?></title>
-  </head>
-  <body>
-    <h1>Footer</h1>
-<?php>
-echo $page_title;
-?>
+<footer> <small>© 2014, Alle rechten voorbehouden ~ Derek Juhl
