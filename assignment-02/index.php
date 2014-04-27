@@ -13,8 +13,8 @@ if ($method == "GET") {
 <input name="noun" placeholder="Noun">
 <input name="verb" placeholder="Verb (without \"to\")">
 <input name="adjective" placeholder="Adjective">
-Quantity (between 1 and 12): <input type="First number" name="quantity" min="1" max="12" step="1">
-Quantity (between 24 and 36): <input type="Second number" name="quantity" min="24" max="36" step="1">
+Quantity (between 1 and 12): <input type="number" name="First number" min="1" max="12" step="1">
+Quantity (between 24 and 36): <input type="number" name="Second number" min="24" max="36" step="1">
 <button>SUBMIT</button>
 </form>
 
@@ -48,5 +48,6 @@ An <?= htmlentities ($adj) ?> witch lured the <?= htmlentities($noun) ?> into he
 <a href="index.php">GET</a>
 
 <?php
+}
 }
 ?>
