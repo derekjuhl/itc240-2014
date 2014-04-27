@@ -11,7 +11,7 @@ if ($method == "GET") {
 
 <form method="submit">
 <input name="noun" placeholder="Noun">
-<input name="verb" placeholder="Verb (without \"to\")">
+<input name="verb" placeholder="Verb">
 <input name="adjective" placeholder="Adjective">
 Quantity (between 1 and 12): <input type="number" name="First number" min="1" max="12" step="1">
 Quantity (between 24 and 36): <input type="number" name="Second number" min="24" max="36" step="1">
@@ -21,6 +21,7 @@ Quantity (between 24 and 36): <input type="number" name="Second number" min="24"
 <?php
 } else {
 ?>
+
 <pre>
 <?php print_r($_REQUEST);?>
 </pre>
@@ -38,6 +39,7 @@ if ($first_number == 12) {
 ?>
 <br>
 The <?= htmlentities ($noun) ?> found a treasure chest and lived happily ever after.
+
 	
 <?php
 } else {
@@ -51,3 +53,5 @@ An <?= htmlentities ($adj) ?> witch lured the <?= htmlentities($noun) ?> into he
 }
 }
 ?>
+
+</html>
