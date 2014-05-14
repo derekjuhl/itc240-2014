@@ -1,0 +1,65 @@
+commit 3431cd216f8bc7f8d1435b7ba28dce61a91605a3
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Thu Apr 10 18:43:38 2014 -0700
+
+    Added a sample nanorc config
+
+commit 6b2aecd5be9e2075d6078b7fa29ef127e5667789
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Thu Apr 10 18:32:13 2014 -0700
+
+    Added first class demonstration files
+
+commit c6b9d773d6a8b70eaa6c7dc0b04d6b5652a87eae
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Tue Apr 8 23:17:53 2014 -0700
+
+    Remove shell syntax from command line examples.
+
+commit 1b24f75b5b85050c50bb327d46867b456c4ba76a
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Tue Apr 8 23:13:43 2014 -0700
+
+    Added command line tutorial
+
+commit f7379cd0a0230a993f53971b26bc2b7b69add9f7
+Author: Thomas Wilburn <tbone@thomaswilburn.net>
+Date:   Thu Apr 3 06:49:19 2014 -0700
+
+    Locked down .git directory.
+
+commit adc0da8dc8f0135726937ea061d5c1df3fa3f288
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 14:37:53 2014 -0700
+
+    Create committing.md
+
+commit ee16890421601e1560899b13ca1c76b437433bcd
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 14:03:34 2014 -0700
+
+    Update getting-started.md
+
+commit e1911be243f5caaea9f6dab2d0cbf1c4bb855a32
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 14:02:55 2014 -0700
+
+    I can never remember the right link format in MarkDown.
+
+commit b3fadb7729b91153794c888743cf0b054f3c45e5
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 14:00:54 2014 -0700
+
+    Create getting-started.md
+
+commit 2957a0a7cc8ff19d2b9fabcb178b9742977e5a50
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 13:18:27 2014 -0700
+
+    Update README.md
+
+commit c5668cc68c1344500527e9ed8bd8caac8054a34f
+Author: Thomas Wilburn <news@thomaswilburn.net>
+Date:   Sat Mar 29 13:10:20 2014 -0700
+
+    Initial commit
